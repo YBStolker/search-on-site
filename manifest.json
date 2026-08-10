@@ -1,7 +1,7 @@
 {
   "name": "Search in site",
   "manifest_version": 3,
-  "description": "Easy acces to the site: search functionality of your favorite search engine.",
+  "description": "Easy acces to the \"site:\" search functionality of your default search engine.",
   "version": "1.0",
   "icons": {
     "16": "images/icon-16.png",
@@ -22,8 +22,8 @@
   "commands": {
     "open-popup": {
       "suggested_key": {
-        "default": "Alt+Shift+F",
-        "mac": "Alt+Shift+F"
+        "default": "Ctrl+Alt+F",
+        "mac": "Command+Alt+F"
       },
       "description": "Open the popup to search the site."
     }
