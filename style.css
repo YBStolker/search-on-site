@@ -1,0 +1,13 @@
+body {
+    background: #333;
+    color: #ccc;
+    width: 25em;
+}
+
+form {
+    width: 100%;
+}
+
+input {
+    width: 97%;
+}
